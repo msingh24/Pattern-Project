@@ -1,0 +1,15 @@
+h1 {
+	color:white;
+}
+
+.jumbotron{
+	background:url("img/pattern1.jpg") center  center;
+}
+
+p {
+	color:black;
+}
+
+.lead {
+	font-weight: 400;
+}
